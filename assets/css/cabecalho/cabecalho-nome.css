@@ -1,0 +1,9 @@
+.cabecalho__nome {
+    display: flex;
+    padding: auto 5rem;
+    color: var(--preto-suave);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}

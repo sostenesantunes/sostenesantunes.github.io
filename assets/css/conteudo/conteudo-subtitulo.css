@@ -1,0 +1,9 @@
+.conteudo__subtitulo {
+    color: var(--preto-suave);
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    padding: 1rem;
+}

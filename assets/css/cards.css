@@ -1,0 +1,9 @@
+.cards {
+    background-color: var(--branco-gelo);
+    display: flex;
+    flex-direction: column;
+    justify-self: stretch;
+    padding: 1.5rem 3rem;
+    text-align: center;
+
+}

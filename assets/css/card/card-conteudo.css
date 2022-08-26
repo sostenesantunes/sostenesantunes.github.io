@@ -1,0 +1,6 @@
+.card__conteudo {
+    background-color: var(--branco-branco);
+    border: 2px;
+    border-style: hidden;
+    border-color: var(--preto-suave);
+}

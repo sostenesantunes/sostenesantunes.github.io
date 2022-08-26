@@ -1,0 +1,9 @@
+.cabecalho__logo {
+    background-image: url(../../img/Vector@2x.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 10px;
+    width: 16px;
+
+}

@@ -1,0 +1,7 @@
+.informacao__descricao {
+    color: var(--preto-suave);
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}

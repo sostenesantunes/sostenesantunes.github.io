@@ -1,0 +1,8 @@
+.conteudo__descricao {
+    color: var(--preto-suave);
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}

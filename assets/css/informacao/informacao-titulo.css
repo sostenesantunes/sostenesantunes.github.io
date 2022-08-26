@@ -1,0 +1,8 @@
+.informacao__titulo {
+    color: var(--preto-suave);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 61px;
+    padding-bottom: 1rem;
+}

@@ -1,0 +1,14 @@
+.informacao__perfil {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    float: right;
+    height: 300px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.imagem {
+    background-image: url(../../img/perfil/imagem-perfil.jpg);
+}

@@ -1,0 +1,7 @@
+.card__item {
+    display: block;
+    padding-top: 2rem;
+    justify-content: space-around;
+    margin: auto .3rem;
+    
+}

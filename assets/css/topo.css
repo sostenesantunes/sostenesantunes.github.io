@@ -1,0 +1,6 @@
+.topo {
+    background-color: var(--branco-fumaca);
+    display: block;
+    box-sizing: border-box;
+    padding: 3rem 5rem;
+}

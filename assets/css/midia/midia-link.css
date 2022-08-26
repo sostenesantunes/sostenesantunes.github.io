@@ -1,0 +1,9 @@
+.midia__link {
+    font-style: normal;
+    color: var(--preto-suave);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    
+}
